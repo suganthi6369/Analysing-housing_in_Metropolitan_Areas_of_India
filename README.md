@@ -8,4 +8,4 @@ dashboard  public link - https://public.tableau.com/views/Bangalore_/Dashboard1?
 story public link - https://public.tableau.com/views/Bangalore_1_16964944730970/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-video demotartion link - 
+video demotartion link - https://drive.google.com/file/d/13vwYkafL7QMxQVt3k9oMApO0xf1fY-jL/view?usp=sharing
